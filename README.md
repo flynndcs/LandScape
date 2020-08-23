@@ -1,4 +1,4 @@
-##Installation
+## Installation
 
 Make sure to have GNU tools installed - Make, G++, etc.
 
